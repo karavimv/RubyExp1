@@ -34,5 +34,5 @@ build/
 .rvmrc
 
 #ruby backups
-*.rb~
-.gitignore~
+**/*~
+
